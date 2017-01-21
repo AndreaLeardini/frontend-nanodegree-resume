@@ -1,0 +1,9 @@
+{
+  "schools": [{
+    "name": "CTA Centro tecnologie avanzate",
+    "city": "Verona",
+    "major": "100/100",
+    "minor": ["Office automation"],
+    "years": "1"
+  }]
+}
